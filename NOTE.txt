@@ -1,7 +1,0 @@
-http://expo.getbootstrap.com/
-http://builtwithbootstrap.com/
-http://www.dumetschool.com/bootstrap.zip
-
-
-https://fortawesome.github.io/Font-Awesome/
-http://www.jqueryscript.net/
