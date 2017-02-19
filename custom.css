@@ -4,7 +4,7 @@
 
 /* HEADER */
 header {
-	background:url(bg02.jpg) fixed;
+	background-image:url(image/bg02.jpg) fixed;
 	background-size:cover;
 	background-repeat:no-repeat;
 	background-position:center;
